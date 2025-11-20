@@ -20,7 +20,7 @@ Este proyecto implementa un sistema completo de reconocimiento óptico de caract
 
 ### Modelos y Documentación
 * **Modelo entrenado final** → [best_digit_classifier.h5](./best_digit_classifier.h5)
-* **Presentación del proyecto** → [Presentacion.pdf](./Presentacion.pdf)
+* **Presentación del proyecto** → [Presentacion](https://www.canva.com/design/DAG5OlnG8N0/cpNgFmB_W2sbLV7V02UKXg/edit?utm_content=DAG5OlnG8N0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Recursos Externos
 * **Video demostración del sistema** → [Ver Video](https://drive.google.com/file/d/178Bdlcwd-usDaoOcpLQJRD7au5JKle1C/view?usp=sharing)
