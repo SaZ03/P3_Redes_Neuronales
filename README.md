@@ -20,10 +20,10 @@ Este proyecto implementa un sistema completo de reconocimiento óptico de caract
 
 ### Modelos y Documentación
 * **Modelo entrenado final** → [best_digit_classifier.h5](./best_digit_classifier.h5)
-* **Presentación del proyecto** → [Presentacion](https://www.canva.com/design/DAG5OlnG8N0/cpNgFmB_W2sbLV7V02UKXg/edit?utm_content=DAG5OlnG8N0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* **Presentación del proyecto** → [P_P3_616148_presentación](https://www.canva.com/design/DAG5OlnG8N0/cpNgFmB_W2sbLV7V02UKXg/edit?utm_content=DAG5OlnG8N0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Recursos Externos
-* **Video demostración del sistema** → [Ver Video](https://drive.google.com/file/d/178Bdlcwd-usDaoOcpLQJRD7au5JKle1C/view?usp=sharing)
+* **Video demostración del sistema** → [P_P3_616148_video](https://drive.google.com/file/d/178Bdlcwd-usDaoOcpLQJRD7au5JKle1C/view?usp=sharing)
 * Profesor, porfavor ponga el video en x2, no logré llegar a los 30 segundos y tampoco encontré una forma rápida de editar el video para que esté en x2, una disculpa
 * **Dataset de dígitos para entrenamiento** → [Acceder al Dataset](https://drive.google.com/drive/folders/1UOh0TLqPrPh1odW5VYact01mTGMM98_h?usp=drive_link)
 
