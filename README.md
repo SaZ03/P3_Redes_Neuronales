@@ -24,6 +24,7 @@ Este proyecto implementa un sistema completo de reconocimiento óptico de caract
 
 ### Recursos Externos
 * **Video demostración del sistema** → [Ver Video](https://drive.google.com/file/d/178Bdlcwd-usDaoOcpLQJRD7au5JKle1C/view?usp=sharing)
+* Profesor, porfavor ponga el video en x2, no logré llegar a los 30 segundos y tampoco encontré una forma rápida de editar el video para que esté en x2, una disculpa
 * **Dataset de dígitos para entrenamiento** → [Acceder al Dataset](https://drive.google.com/drive/folders/1UOh0TLqPrPh1odW5VYact01mTGMM98_h?usp=drive_link)
 
 ## Metodología Implementada
